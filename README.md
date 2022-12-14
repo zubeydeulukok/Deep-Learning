@@ -1,6 +1,7 @@
 # Deep-Learning
 This repo consists of annotated notebooks and projects.
-1. DL_S2: We examine how ANN works with a data consisting of 1000 rows.
+DL_S2: 
+We examine how ANN works with a data consisting of 1000 rows.
 Tasks: 
 1. Installing Libraries
 2. EDA
